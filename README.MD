@@ -37,7 +37,7 @@ You can try out the Aestik Save File Editor at [https://lilyu.xyz/aestik](https:
 > Only change the key if it has been changed by the developers of Aestik in any update. Otherwise, do not change the key.
 
 3. **Access the Site**:
-    Open your browser and navigate to `https://yourdomain.com/aestik`. You should see the Aestik Save File Editor interface. 
+    Open your browser and navigate to `https://<domainname>/aestik`. You should see the Aestik Save File Editor interface. 
 
 ## Usage
 
